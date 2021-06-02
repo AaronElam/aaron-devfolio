@@ -8,8 +8,8 @@ module.exports = {
     title: `Aaron Elam | Software Engineer`,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
-    // // Optional: Twitter account handle
-    // author: `@rfitzio`,
+    // Optional: Twitter account handle
+    author: ``,
     // Optional: Github account URL
     github: `https://github.com/aaronelam`,
     // Optional: LinkedIn account URL
@@ -32,23 +32,13 @@ module.exports = {
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
-    // experience: [
-    //   {
-    //     name: 'Acme Corp',
-    //     description: 'Full-Stack Developer, February 2020 - Present',
-    //     link: 'https://github.com/RyanFitzgerald/devfolio',
-    //   },
-    //   {
-    //     name: 'Globex Corp',
-    //     description: 'Full-Stack Developer, December 2017 - February 2020',
-    //     link: 'https://github.com/RyanFitzgerald/devfolio',
-    //   },
-    //   {
-    //     name: 'Hooli',
-    //     description: 'Full-Stack Developer, May 2015 - December 2017',
-    //     link: 'https://github.com/RyanFitzgerald/devfolio',
-    //   },
-    // ],
+    experience: [
+      {
+        name: '',
+        description: '',
+        link: '',
+      },
+    ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
@@ -56,10 +46,6 @@ module.exports = {
         description:
           'C/C++, Java, Python',
       },
-      // {
-      //   name: 'Databases',
-      //   description: 'MongoDB, PostreSQL, MySQL',
-      // },
       {
         name: 'Other',
         description:
