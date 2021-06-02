@@ -28,16 +28,16 @@ module.exports = {
         name: 'Review Sentiment Analyzer',
         description:
           'Judges whether an IMDb-scraped movie review is positive or negative',
-        link: '',
+        link: 'https://google.com',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
-      {
-        name: '',
-        description: '',
-        link: '',
-      },
+      // {
+      //   name: '',
+      //   description: '',
+      //   link: '',
+      // },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
