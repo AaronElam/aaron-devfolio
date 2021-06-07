@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `aaronelam.com`,
+    siteUrl: `https://www.aaronelam.com`,
     // Your Name
     name: 'Aaron Elam',
     // Main Site Title
@@ -34,9 +34,9 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: '',
-        description: '',
-        link: '',
+        name: 'Domino\'s Delivery Driver🍕',
+        description: 'Brought happiness in a box: directly to your door.',
+        link: 'https://google.com',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
